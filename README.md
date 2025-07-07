@@ -76,6 +76,16 @@ These strategies follow a **relationship-first approach**:
 - List health and hygiene
 - ROI measurement and optimization
 
+## AI-Enhanced Framework Documents
+
+This repository includes comprehensive AI-enhanced frameworks that provide strategic guidance for building intelligent email marketing systems:
+
+### **[Intelligent Email Systems](intelligent-email-systems.md)**
+Complete framework for building relationship-centric email intelligence systems that understand recipient behavior, predict engagement, and deliver personalized experiences through AI-powered automation and strategic email principles.
+
+### **[Personalization Architecture](personalization-architecture.md)**
+Comprehensive guide for creating individual-centric personalization systems that deliver unique, relevant experiences for each recipient through intelligent personalization engines and dynamic content optimization.
+
 ## Contributing
 
 Found an issue or want to improve a strategy?
